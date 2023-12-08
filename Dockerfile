@@ -1,6 +1,6 @@
 FROM quay.io/maherzubair/sigma-md:beta
-RUN git clone https://github.com/LUCKYSERSKBA/XLICONV1 /root/LUCKYSERSKBA/XLICON-MD
-WORKDIR /root/LUCKYSERSKBA/XLICON-MD/
+RUN git clone https://github.com/LUCKYSERSKBA/Quenn-Ziyav /root/Quenn-Ziyav
+WORKDIR /root/Quenn-Ziyav/
 RUN npm install npm@latest
 RUN npm install
 EXPOSE 8000
