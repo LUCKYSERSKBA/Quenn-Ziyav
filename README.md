@@ -17,9 +17,9 @@
 <p/>
 <p align="center">
 <a href="https://github.com/LUCKYSERSKBA?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/salmanytofficial?label=Followers&style=social"></a>
-<a href="https://github.com/LUCKYSERSKBA/XLICON-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/LUCKYSERSKBA/XLICON-MD?&style=social"></a>
-<a href="https://github.com/LUCKYSERSKBA/XLICON-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/LUCKYSERSKBA/XLICON-MD?style=social"></a>
-<a href="https://github.com/LUCKYSERSKBA/XLICON-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/LUCKYSERSKBA/XLICON-MD?label=Watching&style=social"></a>
+<a href="https://github.com/LUCKYSERSKBA/Quenn-Ziyav/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/LUCKYSERSKBA/Quenn-Ziyav?&style=social"></a>
+<a href="https://github.com/LUCKYSERSKBA/Quenn-Ziyav/network/members"><img title="Fork" src="https://img.shields.io/github/forks/LUCKYSERSKBA/Quenn-Ziyav?style=social"></a>
+<a href="https://github.com/LUCKYSERSKBA/XLICON-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/LUCKYSERSKBA/Quenn-Ziyav?label=Watching&style=social"></a>
 </p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{salmanytofficial}/count.svg" alt="LUCKY SKBA:: Visitor's Count" /></p>
@@ -40,7 +40,7 @@ Dont't Forget To ***SYNC FORK*** The Respository Before ***Deploy***
 
 1. Fork the repo
     <br>
-<a href="https://github.com/LUCKYSERSKBA/XLICONV1/fork"><img title="XLICON-1.0" src="https://img.shields.io/badge/FORK XLICON-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/LUCKYSERSKBA/Quenn-Ziyav/fork"><img title="XLICON-1.0" src="https://img.shields.io/badge/FORK XLICON-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2. Scan the QR and upload the `Session` to ***XLICON-SECTION*** 
     <br>
@@ -144,7 +144,7 @@ Choose your repo
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/LUCKYSERSKBA/XLICONV1">
+    <a href="https://repl.it/github/LUCKYSERSKBA/Quenn-Ziyav">
     <img src="https://repl.it/badge/github/quiec/whatsasena" width="170px" alt="Deploy on REPLIT" >
     </a>
 </p>
@@ -187,7 +187,7 @@ Choose your repo
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/LUCKYSERSKBA/XLICONV1">
+    <a href="https://heroku.com/deploy?template=https://github.com/LUCKYSERSKBA/Quenn-Ziyav">
     <img src="https://www.herokucdn.com/deploy/button.png" width="170px" alt="Deploy on Heroku" >
     </a>
 
@@ -210,7 +210,7 @@ Choose your repo
 </p>
 
 <p align="center" >
-    <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/https://github.com/salmanytofficial/XLICON-MD&branch=main&build_command=npm%20i&run_command=npm%20start&env[SESSION_ID]&env[OWNER_NUMBER]&env[MONGODB_URI]&&env[OWNER_NAME]&env[PREFIX]=.&env[THUMB_IMAGE]=https://telegra.ph/file/3c341828d86ee7a89c73f.jpg&env[email]=infiniteytff@gmail.com&env[global_url]=instagram.com/sla.sher_&env[FAKE_COUNTRY_CODE]=974&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[ANTI_BAD_WORD]=fuck&env[WORKTYPE]=public&env[THEME]=GOJO&env[PACK_INFO]=XLICON;MD&name=xliconuser000&env[KOYEB_NAME]=profilecorruptederror&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000">
+    <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/https://github.com/LUCKYSERSKBA/Quenn-Ziyav&branch=main&build_command=npm%20i&run_command=npm%20start&env[SESSION_ID]&env[OWNER_NUMBER]&env[MONGODB_URI]&&env[OWNER_NAME]&env[PREFIX]=.&env[THUMB_IMAGE]=https://telegra.ph/file/3c341828d86ee7a89c73f.jpg&env[email]=infiniteytff@gmail.com&env[global_url]=instagram.com/sla.sher_&env[FAKE_COUNTRY_CODE]=974&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[ANTI_BAD_WORD]=fuck&env[WORKTYPE]=public&env[THEME]=GOJO&env[PACK_INFO]=Quenn-Ziyav&name=xliconuser000&env[KOYEB_NAME]=profilecorruptederror&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000">
     <img src="https://www.koyeb.com/static/images/deploy/button.svg" width="170px" alt="Deploy on Koyeb" >
     </a>
 
