@@ -44,11 +44,11 @@ Dont't Forget To ***SYNC FORK*** The Respository Before ***Deploy***
 
 2. Scan the QR and upload the `Session` to ***XLICON-SECTION*** 
     <br>
-<a href='https://replit.com/@LUCKYSERSKBA/XLICON-MD-QR-V1?v=1' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<a href='https://replit.com/@LUCKYSERSKBA/Quenn-Ziyav-QR?v=1' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
 3. Scan Qr
     <br>
-<a href='https://replit.com/@LUCKYSERSKBA/XLICON-MD-QR-V1?v=1' target="_blank"><img alt='SCAN QR-2' src='https://img.shields.io/badge/Scan_qr-2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
+<a href='https://replit.com/@LUCKYSERSKBA/Quenn-Ziyav-QR?v=1' target="_blank"><img alt='SCAN QR-2' src='https://img.shields.io/badge/Scan_qr-2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
 
 
 ## `Features`
