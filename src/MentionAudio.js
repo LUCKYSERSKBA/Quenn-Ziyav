@@ -4,7 +4,7 @@ const axios = require('axios')
 var nicetitle = '𝐅𝐃𝐁𝐋 𝐔𝐂𝐊𝐘'
 var nicebody = "|| ◁ㅤ❚❚ㅤ▷||ㅤ ↻"
 var niceurl = 'https://github.com/SamPandey001/Secktor-Md'
-const nicepic = 'https://wallpapercave.com/wp/wp9556281.jpg';
+const nicepic = 'https://i.imgur.com/UP9XBBi.jpeg';
 /*
 cmd({
     pattern: "mentionpreview",
