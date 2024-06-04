@@ -5,7 +5,7 @@
   
 <p align="center">
   <a href="">
-    <img alt=Support height="300" src="https://telegra.ph/file/3c341828d86ee7a89c73f.jpg"> 
+    <img alt=Support height="300" src="https://telegra.ph/file/3c341828d86ee7a89c73.jpg"> 
     </p>
     <h1 align="center">Ziyav-1.O<br></h1>
     
