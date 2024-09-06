@@ -19,7 +19,7 @@
 <a href="https://github.com/LUCKYSERSKBA?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/salmanytofficial?label=Followers&style=social"></a>
 <a href="https://github.com/LUCKYSERSKBA/Quenn-Ziyav/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/LUCKYSERSKBA/Quenn-Ziyav?&style=social"></a>
 <a href="https://github.com/LUCKYSERSKBA/Quenn-Ziyav/network/members"><img title="Fork" src="https://img.shields.io/github/forks/LUCKYSERSKBA/Quenn-Ziyav?style=social"></a>
-<a href="https://github.com/LUCKYSERSKBA/XLICON-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/LUCKYSERSKBA/Quenn-Ziyav?label=Watching&style=social"></a>
+<a href="https://github.com/LUCKYSERSKBA/QUEEN-ZIyav/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/LUCKYSERSKBA/Quenn-Ziyav?label=Watching&style=social"></a>
 </p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{salmanytofficial}/count.svg" alt="LUCKY SKBA:: Visitor's Count" /></p>
@@ -40,9 +40,9 @@ Dont't Forget To ***SYNC FORK*** The Respository Before ***Deploy***
 
 1. Fork the repo
     <br>
-<a href="https://github.com/LUCKYSERSKBA/Quenn-Ziyav/fork"><img title="XLICON-1.0" src="https://img.shields.io/badge/FORK XLICON-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/LUCKYSERSKBA/Quenn-Ziyav/fork"><img title="XLICON-1.0" src="https://img.shields.io/badge/FORK Queen-ziyavh?color=black&style=for-the-badge&logo=stackshare"></a>
 
-2. Scan the QR and upload the `Session` to ***XLICON-SECTION*** 
+2. Scan the QR and upload the `Session` to ***queenziyav-SECTION*** 
     <br>
 <a href='https://replit.com/@LUCKYSERSKBA/Quenn-Ziyav-QR?v=1' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
